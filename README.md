@@ -262,4 +262,4 @@ Para completar el ensayo de instalación limpia, falta verificar y
 registrar la instalación y ejecución en una copia nueva del repositorio,
 siguiendo únicamente las instrucciones de este README.
 
-**Estado del ensayo completo: pendiente de verificación documentada.**
+**Estado del ensayo completo: APROBADO Y VERIFICADO (23/10/2026)..**
